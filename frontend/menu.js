@@ -1,1 +1,0 @@
-console.log("adarhs kumar pal ankit")
